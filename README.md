@@ -1,6 +1,7 @@
 # movie_app
 
 Movie App build by melh
+!! This repository contains flutter codes for movie app
 
 ## Getting Started
 
